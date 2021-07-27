@@ -5,7 +5,7 @@
 
 •  🎓 I’m currently working towards a B.Sc. Computer Science degree <br>
 •  🌱 I'm learning web dev and cybersecurity on the side. <br>
-•  🥅 2021 Goals: Improve my web dev skills and learn more about cybersecurity!
+•  🥅 2021 Goals: Improve my web dev and cybersecurity skills !
 
 
 ### Languages and Tools:
