@@ -26,7 +26,7 @@
 
 <p align="center">
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-kenzo-m-5345281a7/)](https://www.linkedin.com/in/pedro-kenzo-m-5345281a7/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-cruz-838a891b8//)](https://www.linkedin.com/in/mateus-cruz-838a891b8/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateussc2000@gmail.com)](mailto:mateussc2000@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mah_teuss/)](https://www.instagram.com/mah_teuss/)
 
