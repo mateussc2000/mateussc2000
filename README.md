@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
  <img align="left" alt="Mateussc2000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mateussc2000&show_icons=true&hide_border=true" />
  <img align="right" alt="favourite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussc2000&language=compact&hide_border=true" />
-
+</br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
